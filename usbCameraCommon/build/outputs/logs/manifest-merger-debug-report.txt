@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
+	package
+		ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml:24:11-52
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+		ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+		ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraCommon/src/main/AndroidManifest.xml

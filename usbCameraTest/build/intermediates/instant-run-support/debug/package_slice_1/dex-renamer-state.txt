@@ -1,0 +1,4 @@
+#Mon Jun 04 10:15:50 CST 2018
+base.0=/Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraTest/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

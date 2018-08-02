@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraTest2/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/test/AndroidStudioProjects/company/UVCCamera/usbCameraTest2/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "30,31,32,33",
+                        "startColumns": "4,1,1,1",
+                        "startOffsets": "1262,1317,1370,1410",
+                        "endColumns": "57,52,39,42",
+                        "endOffsets": "1315,1368,1408,1451"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,113,169,212",
+                        "endColumns": "57,55,42,45",
+                        "endOffsets": "108,164,207,253"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:24:1-33:12
+	package
+		ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:25:5-40
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:27:5-30
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:24:11-69
+	android:versionCode
+		ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:26:5-28
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:29:5-31:41
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:29:5-31:41
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:29:5-31:41
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:29:5-31:41
+INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:29:5-31:41
+	android:targetSdkVersion
+		ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:31:9-38
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml:30:9-35
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/AndroidStudioProjects/company/UVCCamera/libuvccamera/src/main/AndroidManifest.xml
